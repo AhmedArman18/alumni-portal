@@ -1,3 +1,15 @@
-*
 !data/
 !.gitignore
+.DS_Store
+.phpunit.result.cache
+/.fleet
+/.idea
+/.phpunit.cache
+/phpunit.xml
+/.vscode
+/vendor
+composer.phar
+composer.lock
+Thumbs.db
+.env
+node_modules
